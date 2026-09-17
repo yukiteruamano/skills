@@ -41,7 +41,7 @@
     "blockstore-core": "^4.4.1",
     "datastore-core": "^9.2.9",
     "dotenv": "^16.6.1",
-    "helia": "^4.0.0",
+    "helia": "^7.1.12",
     "ox": "^0.6.7",
     "redis": "^4.7.1",
     "viem": "^2.21.54",
